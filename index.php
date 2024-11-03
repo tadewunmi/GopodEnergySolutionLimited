@@ -6,7 +6,7 @@
     include 'header.php'; 
 ?>
     <main id="main">
-
+        
         <!-- Full-Width Slider -->
         <div id="fullCoverCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
             <div class="carousel-inner">
@@ -26,7 +26,7 @@
                     <img src="assets/img/slider2.jpg" class="d-block w-100" alt="Slide 2">
                         <div class="carousel-caption">
                             <h1 class="display-2 text-white animated slideInDown">Explore Our Products</h1>
-                            <p class="fs-5 fw-medium text-white mb-4 pb-3">Find the perfect solutions tailored for your business needs.</p>
+                            <p class="fs-5 fw-medium text-white mb-4 pb-3">Find the perfect solar solutions tailored for your business needs.</p>
                             <a href="#shop" class="btn btn">Explore Products</a>
                         </div>
                 </div>
@@ -347,6 +347,7 @@
         
     </main><!-- End #main -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+      
 
 <?php 
     include 'footer.php'; 
