@@ -453,7 +453,7 @@
   
   /*** About ***/
   .about {
-    padding-top: 20px;
+    padding-top: 40px;
     background-color: #1A2A36;
     color: white;
   }
@@ -479,7 +479,7 @@
   
   /*** Service ***/
   .service {
-    padding-top: 10px;
+    padding-top: 40px;
     background-color:aliceblue;
   }
 
@@ -560,7 +560,7 @@
   /*** Shop ***/
   .shop {
     background-color: aliceblue;
-    padding-top: 20px;
+    padding-top: 40px;
     padding-bottom: 50px;
   }
 
@@ -608,7 +608,7 @@
   .contact {
     background-color: #1A2A36;
     color:#FFFFFF;
-    padding-top: 10px;
+    padding-top: 40px;
   }
 
   .contact .d-inline-block {
